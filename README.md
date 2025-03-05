@@ -10,7 +10,7 @@ This task involves building a decision tree classifier to predict whether a cust
 
 1. Data Loading and Exploration:
    - Load the dataset (e.g., bank_marketing.csv) using Pandas.
-   - Inspect the dataset’s structure and summary statistics using methods like .info(), .describe(), and .head().
+   - Inspect the dataset’s structure and summary statistics using methods like `.info()`, `.describe()`, and `.head()`.
    - Check for missing values and handle them appropriately.
    - Understand data types and transform them if necessary.
 
@@ -22,7 +22,7 @@ This task involves building a decision tree classifier to predict whether a cust
 3. Building the Decision Tree Classifier:
    - Import the DecisionTreeClassifier from the sklearn.tree module.
    - Fit the classifier on the training data.
-   - Tune hyperparameters like max_depth, min_samples_split, and criterion for optimal performance.
+   - Tune hyperparameters like `max_depth`, `min_samples_split`, and criterion for optimal performance.
 
 4. Model Evaluation:
    - Make predictions on the test set.
