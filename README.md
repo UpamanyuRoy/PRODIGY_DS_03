@@ -30,7 +30,7 @@ This task involves building a decision tree classifier to predict whether a cust
    - Visualize the confusion matrix to assess classification results.
 
 5. Visualizing the Decision Tree:
-   - Use plot_tree or export_text from the sklearn library to visualize the decision tree structure.
+   - Use `plot_tree` or `export_text` from the `sklearn` library to visualize the decision tree structure.
    - Interpret key decision points and feature importance.
 
 6. Insights and Conclusions:
